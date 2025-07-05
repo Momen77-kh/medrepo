@@ -122,5 +122,3 @@ class medicalPrediction:
             return f"sorry {self.name} i dont know"
 
 
-
-

@@ -1,3 +1,0 @@
-The requirements of this project :
-re library
-

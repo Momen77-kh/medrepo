@@ -5,7 +5,7 @@ class medicalPrediction:
         self.name = name
         self.req = req
 
-    def ophthalmology (self):
+    def medSpecialty (self):
         ophthalmology_keywords = [
             "عين", "eye",
             "عيوني", "my eye",

@@ -23,8 +23,8 @@ class FetchMedicalInno:
 
     def fetch_all(self):
         self.fetch_table("consultation", "consultation.csv")
-        self.fetch_table("speciality", "specialty.csv")
-        self.fetch_table("consultation_speciality", "consultation_specialty.csv")
+        self.fetch_table("specialty", "specialty.csv")
+        self.fetch_table("consultation_specialty", "consultation_specialty.csv")
         self.fetch_table("service_question", "service_question.csv")
 
     def merge_tables(self):
